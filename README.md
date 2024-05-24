@@ -8,8 +8,6 @@ Lets Connect
 
 [Go to my LinkedIn](https://www.linkedin.com/in/eshwari-gone-8a0500194/) 🌐
 
-[Go to my Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/NetflixProject-TableauDashboard/Netflix?publish=yes)
-
 ## PROJECT NAME: 
 
 Netflix Data Analysis Using Tableau 
