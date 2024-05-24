@@ -51,7 +51,7 @@ Netflix Data Analysis Using Tableau
 ## METHODOLOGY:
 
 
-The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
+The goal of this project is to practice creating and interpreting different types of visualizations using real world data. 
 
 ### Vertical Bar Graph of Rating & Horizontal Bar Graph of Top 10 Gerne.
 
@@ -67,12 +67,15 @@ The goal of this project is to practice creating and interpreting different type
 
 ## NETFLIX ANALYSIS DASHBOARD:
 
-The dashboard shows:
+The dashboard features:
 
-1) The User can search the movies,Tv show and he/she will get rating, duration, genre, release date, added date and Description about it.
-2) The Dashboard will provide interactive interface of list according to user choice of genre.
-3) The Dashboard will show total number of movies and Tv shows released each year. 
-4) The Dashboard will top 10 genre and pie chart of sum up of movies and Tv shos released each year.
+Search Functionality: Users can search for movies and TV shows to retrieve information such as rating, duration, genre, release date, added date, and description.
+
+Interactive Genre Filter: Users can interactively filter the dashboard based on their preferred genre.
+
+Yearly Releases: The dashboard displays the total number of movies and TV shows released each year.
+
+Top Genres: It showcases the top 10 genres and includes a pie chart summarizing the number of movies and TV shows released annually.
 
 ## DASHBOARD:
 
